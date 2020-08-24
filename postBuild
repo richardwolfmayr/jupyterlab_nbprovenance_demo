@@ -1,3 +1,5 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install github:richardwolfmayr/jupyterlab_nbprovenance#experimental-wolfmayr
+
