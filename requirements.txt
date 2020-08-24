@@ -1,3 +1,6 @@
+jupyterlab>=2.1.0
+traitlets>=4.3.1
+ipython
 numpy
 matplotlib
 ipywidgets
