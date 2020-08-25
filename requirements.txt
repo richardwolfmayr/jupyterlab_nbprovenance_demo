@@ -1,5 +1,0 @@
-numpy
-matplotlib
-ipywidgets
-jupyter_contrib_nbextensions
-github:richardwolfmayr/jupyterlab_nbprovenance#release-test
