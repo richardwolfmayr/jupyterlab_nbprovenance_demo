@@ -3,6 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/richardwolfmayr/jupyterlab_nbprovenance_demo/experimental-wolfmayr?urlpath=lab)
 
 
+
 This example demonstrates how to enable Jupyter extensions with Binder.We currently only cover one example
 in this repo. Be aware that some are idiosyncratic in how they're enabled.
 
