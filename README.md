@@ -1,4 +1,4 @@
-# Jupyter Notebook Visualization in Jupyterlab Demo
+# Jupyter Notebook Visualization in Jupyterlab - Demo
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/richardwolfmayr/jupyterlab_nbprovenance_demo/experimental-wolfmayr?urlpath=lab)
 
