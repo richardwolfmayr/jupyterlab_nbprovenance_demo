@@ -1,1 +1,1 @@
-jupyter labextension install github:richardwolfmayr/jupyterlab_nbprovenance#6523ec90f7d4c27c2bd8f6c95c1dac33132fc517
+jupyter labextension install github:richardwolfmayr/jupyterlab_nbprovenance#release-test
